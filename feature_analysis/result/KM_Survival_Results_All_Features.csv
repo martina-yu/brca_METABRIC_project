@@ -1,0 +1,115 @@
+"Feature","Type","Groups","N","Logrank_p","HR_info","Significant"
+"nottingham_prognostic_index","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,0,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.43 (1.1–1.86, p = 0.009)
+Q3 vs Q1 (Lowest): HR = 2.37 (1.84–3.03, p = <0.001)
+Q4 (Highest) vs Q1 (Lowest): HR = 4.4 (3.46–5.6, p = <0.001)",TRUE
+"pam50_._claudin.low_subtype","Categorical","Basal | claudin-low | Her2 | LumA | LumB | NC | Normal",1423,0,"Pairwise HRs (vs
+Basal
+):
+claudin-low vs Basal: HR = 0.62 (0.44–0.87, p = 0.006)
+Her2 vs Basal: HR = 1.46 (1.09–1.95, p = 0.011)
+LumA vs Basal: HR = 0.5 (0.38–0.66, p = <0.001)
+LumB vs Basal: HR = 1.01 (0.78–1.31, p = 0.934)
+NC vs Basal: HR = 1.48 (0.47–4.7, p = 0.503)
+Normal vs Basal: HR = 0.73 (0.51–1.04, p = 0.084)",TRUE
+"gsk3b","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,7.54951656745106e-15,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.28 (0.99–1.65, p = 0.055)
+Q3 vs Q1 (Lowest): HR = 1.76 (1.39–2.24, p = <0.001)
+Q4 (Highest) vs Q1 (Lowest): HR = 2.4 (1.9–3.02, p = <0.001)",TRUE
+"aurka","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,1.37667655053519e-14,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.7 (1.32–2.19, p = <0.001)
+Q3 vs Q1 (Lowest): HR = 2.5 (1.97–3.19, p = <0.001)
+Q4 (Highest) vs Q1 (Lowest): HR = 2.32 (1.81–2.96, p = <0.001)",TRUE
+"age_at_diagnosis","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,5.06261699229071e-14,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 0.99 (0.77–1.26, p = 0.907)
+Q3 vs Q1 (Lowest): HR = 1.12 (0.89–1.42, p = 0.341)
+Q4 (Highest) vs Q1 (Lowest): HR = 2.03 (1.63–2.52, p = <0.001)",TRUE
+"X3.gene_classifier_subtype","Categorical","ER-/HER2- | ER+/HER2- High Prolif | ER+/HER2- Low Prolif | HER2+",1274,2.11164419283705e-13,"Pairwise HRs (vs
+ER-/HER2-
+):
+ER+/HER2- High Prolif vs ER-/HER2-: HR = 1.21 (0.95–1.53, p = 0.118)
+ER+/HER2- Low Prolif vs ER-/HER2-: HR = 0.61 (0.47–0.79, p = <0.001)
+HER2+ vs ER-/HER2-: HR = 1.6 (1.21–2.13, p = 0.001)",TRUE
+"e2f2","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,2.1183055309848e-13,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.63 (1.26–2.1, p = <0.001)
+Q3 vs Q1 (Lowest): HR = 2.44 (1.91–3.11, p = <0.001)
+Q4 (Highest) vs Q1 (Lowest): HR = 2.18 (1.7–2.79, p = <0.001)",TRUE
+"type_of_breast_surgery","Categorical","BREAST CONSERVING | MASTECTOMY",1407,4.65227856238926e-12,"HR (MASTECTOMY vs BREAST CONSERVING) = 1.8
+95% CI: 1.52–2.14, p = <0.001",TRUE
+"flt3","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,6.9315886364052e-11,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 0.84 (0.69–1.03, p = 0.098)
+Q3 vs Q1 (Lowest): HR = 0.54 (0.43–0.67, p = <0.001)
+Q4 (Highest) vs Q1 (Lowest): HR = 0.52 (0.42–0.65, p = <0.001)",TRUE
+"neoplasm_histologic_grade","Numeric","Grade 1 | Grade 2 | Grade 3",1385,1.62684532512003e-10,"Pairwise HRs (vs
+Grade 1
+):
+Grade 2 vs Grade 1: HR = 1.82 (1.2–2.76, p = 0.005)
+Grade 3 vs Grade 1: HR = 2.8 (1.87–4.2, p = <0.001)",TRUE
+"stat5a","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,2.62103450054951e-10,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 0.83 (0.68–1.02, p = 0.072)
+Q3 vs Q1 (Lowest): HR = 0.57 (0.45–0.71, p = <0.001)
+Q4 (Highest) vs Q1 (Lowest): HR = 0.51 (0.41–0.64, p = <0.001)",TRUE
+"ccne1","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,3.85953047299381e-10,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.69 (1.32–2.17, p = <0.001)
+Q3 vs Q1 (Lowest): HR = 2.09 (1.64–2.66, p = <0.001)
+Q4 (Highest) vs Q1 (Lowest): HR = 2.15 (1.68–2.74, p = <0.001)",TRUE
+"rps6kb2","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,4.02365973872776e-09,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.41 (1.11–1.79, p = 0.005)
+Q3 vs Q1 (Lowest): HR = 1.38 (1.08–1.76, p = 0.01)
+Q4 (Highest) vs Q1 (Lowest): HR = 2.06 (1.64–2.59, p = <0.001)",TRUE
+"ncoa3","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,9.11552711091446e-09,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.05 (0.82–1.35, p = 0.711)
+Q3 vs Q1 (Lowest): HR = 1.72 (1.37–2.17, p = <0.001)
+Q4 (Highest) vs Q1 (Lowest): HR = 1.7 (1.35–2.14, p = <0.001)",TRUE
+"mapt","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,3.8306833372026e-08,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 0.9 (0.73–1.1, p = 0.301)
+Q3 vs Q1 (Lowest): HR = 0.65 (0.52–0.82, p = <0.001)
+Q4 (Highest) vs Q1 (Lowest): HR = 0.53 (0.42–0.67, p = <0.001)",TRUE
+"pdgfb","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,9.1580574190786e-07,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.08 (0.84–1.38, p = 0.56)
+Q3 vs Q1 (Lowest): HR = 1.35 (1.07–1.71, p = 0.012)
+Q4 (Highest) vs Q1 (Lowest): HR = 1.74 (1.39–2.18, p = <0.001)",TRUE
+"col22a1","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,0.000412366298845779,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.05 (0.83–1.33, p = 0.674)
+Q3 vs Q1 (Lowest): HR = 1.21 (0.97–1.53, p = 0.096)
+Q4 (Highest) vs Q1 (Lowest): HR = 1.53 (1.23–1.91, p = <0.001)",TRUE
+"rheb","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,0.0233512631641509,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 0.77 (0.62–0.95, p = 0.015)
+Q3 vs Q1 (Lowest): HR = 0.76 (0.61–0.94, p = 0.013)
+Q4 (Highest) vs Q1 (Lowest): HR = 0.78 (0.62–0.96, p = 0.021)",TRUE
+"primary_tumor_laterality","Categorical","Left | Right",1343,0.208777776281991,"HR (Right vs Left) = 0.9
+95% CI: 0.76–1.06, p = 0.209",FALSE
+"mutation_count","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1384,0.308354957743668,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.05 (0.85–1.3, p = 0.654)
+Q3 vs Q1 (Lowest): HR = 1.14 (0.91–1.45, p = 0.26)
+Q4 (Highest) vs Q1 (Lowest): HR = 1.22 (0.98–1.52, p = 0.082)",FALSE
