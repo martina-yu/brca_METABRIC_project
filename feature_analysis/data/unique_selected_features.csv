@@ -1,0 +1,32 @@
+x
+nottingham_prognostic_index
+age_at_diagnosis
+mutation_count
+type_of_breast_surgery_MASTECTOMY
+pam50_+_claudin-low_subtype_LumA
+primary_tumor_laterality_Left
+primary_tumor_laterality_Right
+neoplasm_histologic_grade_3.0
+type_of_breast_surgery_BREAST CONSERVING
+3-gene_classifier_subtype_ER+/HER2- Low Prolif
+stat5a
+flt3
+gsk3b
+aurka
+ncoa3
+mapt
+col22a1
+e2f2
+pdgfb
+rheb
+tp53_mut
+gata3_mut
+tbx3_mut
+birc6_mut
+muc16_mut
+dnah2_mut
+cbfb_mut
+brca2_mut
+usp28_mut
+ccne1
+rps6kb2
