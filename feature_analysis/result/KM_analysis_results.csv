@@ -1,0 +1,112 @@
+"Feature","Type","Groups","N","Logrank_p","HR_info","Significant"
+"nottingham_prognostic_index","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,0,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.428 (95% CI: 1.095–1.863, p = 0.0085)
+Q3 vs Q1 (Lowest): HR = 2.366 (95% CI: 1.845–3.034, p = <0.001)
+Q4 (Highest) vs Q1 (Lowest): HR = 4.398 (95% CI: 3.456–5.597, p = <0.001)",TRUE
+"age_at_diagnosis","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,5.06261699229071e-14,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 0.986 (95% CI: 0.774–1.255, p = 0.9069)
+Q3 vs Q1 (Lowest): HR = 1.121 (95% CI: 0.886–1.417, p = 0.3409)
+Q4 (Highest) vs Q1 (Lowest): HR = 2.028 (95% CI: 1.629–2.524, p = <0.001)",TRUE
+"mutation_count","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1384,0.308354957743668,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.05 (95% CI: 0.847–1.303, p = 0.6543)
+Q3 vs Q1 (Lowest): HR = 1.144 (95% CI: 0.905–1.445, p = 0.2603)
+Q4 (Highest) vs Q1 (Lowest): HR = 1.219 (95% CI: 0.975–1.524, p = 0.0815)",FALSE
+"type_of_breast_surgery","Categorical","BREAST CONSERVING | MASTECTOMY",1407,4.65227856238926e-12,"HR (MASTECTOMY vs BREAST CONSERVING) = 1.804
+95% CI: 1.523–2.138, p = <0.001",TRUE
+"pam50_._claudin.low_subtype","Categorical","Basal | claudin-low | Her2 | LumA | LumB | NC | Normal",1423,0,"Pairwise HRs (vs
+Basal
+):
+claudin-low vs Basal: HR = 0.618 (95% CI: 0.439–0.869, p = 0.0056)
+Her2 vs Basal: HR = 1.459 (95% CI: 1.092–1.949, p = 0.0106)
+LumA vs Basal: HR = 0.503 (95% CI: 0.383–0.661, p = <0.001)
+LumB vs Basal: HR = 1.011 (95% CI: 0.778–1.315, p = 0.9336)
+NC vs Basal: HR = 1.483 (95% CI: 0.468–4.697, p = 0.5027)
+Normal vs Basal: HR = 0.73 (95% CI: 0.511–1.043, p = 0.0842)",TRUE
+"primary_tumor_laterality","Categorical","Left | Right",1343,0.208777776281991,"HR (Right vs Left) = 0.9
+95% CI: 0.764–1.061, p = 0.209",FALSE
+"type_of_breast_surgery","Categorical","BREAST CONSERVING | MASTECTOMY",1407,4.65227856238926e-12,"HR (MASTECTOMY vs BREAST CONSERVING) = 1.804
+95% CI: 1.523–2.138, p = <0.001",TRUE
+"X3.gene_classifier_subtype","Categorical","ER-/HER2- | ER+/HER2- High Prolif | ER+/HER2- Low Prolif | HER2+",1274,2.11164419283705e-13,"Pairwise HRs (vs
+ER-/HER2-
+):
+ER+/HER2- High Prolif vs ER-/HER2-: HR = 1.209 (95% CI: 0.953–1.535, p = 0.1181)
+ER+/HER2- Low Prolif vs ER-/HER2-: HR = 0.611 (95% CI: 0.471–0.795, p = <0.001)
+HER2+ vs ER-/HER2-: HR = 1.603 (95% CI: 1.207–2.13, p = 0.0011)",TRUE
+"stat5a","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,2.62103450054951e-10,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 0.829 (95% CI: 0.677–1.017, p = 0.072)
+Q3 vs Q1 (Lowest): HR = 0.566 (95% CI: 0.454–0.706, p = <0.001)
+Q4 (Highest) vs Q1 (Lowest): HR = 0.509 (95% CI: 0.406–0.638, p = <0.001)",TRUE
+"flt3","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,6.9315886364052e-11,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 0.841 (95% CI: 0.685–1.032, p = 0.0975)
+Q3 vs Q1 (Lowest): HR = 0.536 (95% CI: 0.428–0.67, p = <0.001)
+Q4 (Highest) vs Q1 (Lowest): HR = 0.524 (95% CI: 0.419–0.654, p = <0.001)",TRUE
+"gsk3b","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,7.54951656745106e-15,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.279 (95% CI: 0.994–1.646, p = 0.0554)
+Q3 vs Q1 (Lowest): HR = 1.761 (95% CI: 1.386–2.236, p = <0.001)
+Q4 (Highest) vs Q1 (Lowest): HR = 2.396 (95% CI: 1.904–3.016, p = <0.001)",TRUE
+"aurka","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,1.37667655053519e-14,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.697 (95% CI: 1.316–2.188, p = <0.001)
+Q3 vs Q1 (Lowest): HR = 2.504 (95% CI: 1.966–3.19, p = <0.001)
+Q4 (Highest) vs Q1 (Lowest): HR = 2.317 (95% CI: 1.811–2.963, p = <0.001)",TRUE
+"ncoa3","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,9.11552711091446e-09,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.048 (95% CI: 0.817–1.346, p = 0.7109)
+Q3 vs Q1 (Lowest): HR = 1.724 (95% CI: 1.367–2.174, p = <0.001)
+Q4 (Highest) vs Q1 (Lowest): HR = 1.703 (95% CI: 1.352–2.145, p = <0.001)",TRUE
+"mapt","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,3.8306833372026e-08,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 0.896 (95% CI: 0.727–1.104, p = 0.3011)
+Q3 vs Q1 (Lowest): HR = 0.654 (95% CI: 0.524–0.816, p = <0.001)
+Q4 (Highest) vs Q1 (Lowest): HR = 0.533 (95% CI: 0.423–0.671, p = <0.001)",TRUE
+"col22a1","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,0.000412366298845779,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.052 (95% CI: 0.83–1.335, p = 0.6744)
+Q3 vs Q1 (Lowest): HR = 1.214 (95% CI: 0.966–1.526, p = 0.0959)
+Q4 (Highest) vs Q1 (Lowest): HR = 1.532 (95% CI: 1.227–1.912, p = <0.001)",TRUE
+"e2f2","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,2.1183055309848e-13,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.627 (95% CI: 1.261–2.1, p = <0.001)
+Q3 vs Q1 (Lowest): HR = 2.438 (95% CI: 1.914–3.107, p = <0.001)
+Q4 (Highest) vs Q1 (Lowest): HR = 2.182 (95% CI: 1.704–2.793, p = <0.001)",TRUE
+"pdgfb","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,9.1580574190786e-07,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.076 (95% CI: 0.841–1.376, p = 0.5595)
+Q3 vs Q1 (Lowest): HR = 1.35 (95% CI: 1.067–1.707, p = 0.0123)
+Q4 (Highest) vs Q1 (Lowest): HR = 1.739 (95% CI: 1.388–2.179, p = <0.001)",TRUE
+"rheb","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,0.0233512631641509,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 0.766 (95% CI: 0.618–0.95, p = 0.0152)
+Q3 vs Q1 (Lowest): HR = 0.758 (95% CI: 0.61–0.942, p = 0.0125)
+Q4 (Highest) vs Q1 (Lowest): HR = 0.775 (95% CI: 0.624–0.963, p = 0.0214)",TRUE
+"ccne1","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,3.85953047299381e-10,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.693 (95% CI: 1.322–2.17, p = <0.001)
+Q3 vs Q1 (Lowest): HR = 2.087 (95% CI: 1.637–2.66, p = <0.001)
+Q4 (Highest) vs Q1 (Lowest): HR = 2.149 (95% CI: 1.684–2.743, p = <0.001)",TRUE
+"rps6kb2","Numeric","Q1 (Lowest) | Q2 | Q3 | Q4 (Highest)",1423,4.02365973872776e-09,"Pairwise HRs (vs
+Q1 (Lowest)
+):
+Q2 vs Q1 (Lowest): HR = 1.412 (95% CI: 1.111–1.794, p = 0.0048)
+Q3 vs Q1 (Lowest): HR = 1.381 (95% CI: 1.082–1.763, p = 0.0095)
+Q4 (Highest) vs Q1 (Lowest): HR = 2.061 (95% CI: 1.64–2.591, p = <0.001)",TRUE
